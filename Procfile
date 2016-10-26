@@ -1,0 +1,1 @@
+web: gunicorn planetside2:app --log-file -
